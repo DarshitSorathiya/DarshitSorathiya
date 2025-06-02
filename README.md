@@ -1,17 +1,31 @@
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=0CF7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Darshit+Sorathiya;Data+Scientist+%7C+ML+Enthusiast+%7C+Backend+Developer" alt="Typing SVG" />
-</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&pause=1000&color=0CF7FF&center=true&vCenter=true&width=800&lines=Hey+there!+👋+I'm+Darshit+Sorathiya;Data+Scientist;ML+Enthusiast;Backend+Developer" alt="Typing SVG" />
+</div>
 
-<!-- ✨ Tech-themed funny GIF banner -->
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExejhrMmlvODg2ajYwNXk4NHFldXBwbWFxazVpcGk3amFxNGk1ajQ4NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif" width="600" alt="Funny Coding GIF" />
-</p>
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
+
+<h3 align="center">Still loading the punchline... 🤨</h3>
 
 <p align="center">
+  <img src="https://img.shields.io/badge/Focus-AI%20%2F%20ML-brightgreen" />
+  <img src="https://img.shields.io/badge/Lives-India-success" />
+  <img src="https://img.shields.io/badge/Languages-Hindi%20%26%20English-brightgreen" />
   <img src="https://komarev.com/ghpvc/?username=darshitsorathiya&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
 </p>
 
----
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmh3Z21ta3g1ZmV4Y3gyNzM5OGVoMnltNHNhd2Y4aThkOXBuOGZ2YyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jBOOXxSJfG8kqMxT11/giphy.gif"
+       alt="Cool GIF"
+       width="400"
+       style="border: 4px solid; border-image: linear-gradient(90deg, #ff00cc, #3333ff, #00ffcc, #33ff33) 1;" />
+</p>
+<!-- Gradient Divider -->
+
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🧑‍💻 About Me
 
@@ -20,7 +34,9 @@
 - 📫 Reach me at: **darshitsorthiya@gmail.com**
 - ⚡ Fun fact: My brain runs on caffeine and async functions ☕⚙️
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🌐 Connect with Me
 
@@ -30,7 +46,9 @@
   <a href="https://leetcode.com/darshitsorathiya"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### ⚙️ Tech Stack
 
@@ -66,7 +84,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🧠 Quote of the Day
 
@@ -74,7 +94,9 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 📈 GitHub Stats
 
@@ -86,7 +108,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitsorathiya&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🔥 GitHub Streak
 
@@ -94,7 +118,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=darshitsorathiya&theme=tokyonight&hide_border=true" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🏆 GitHub Trophies
 
@@ -102,6 +128,8 @@
   <img src="https://github-profile-trophy.vercel.app/?username=darshitsorathiya&theme=tokyonight&no-frame=true&margin-w=15&row=2&column=4" />
 </p>
 
----
+<div align="center">
+  <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
+</div>
 
 ### 🚀 Let’s Build Something Amazing Together!

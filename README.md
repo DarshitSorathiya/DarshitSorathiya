@@ -44,11 +44,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" />
 </p>
 
-#### 📊 Visualization & BI Tools
-<p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
-</p>
-
 #### 🗄️ Databases
 <p>
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases"/>
@@ -62,6 +57,7 @@
 #### 🧰 Tools & Utilities
 <p>
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" alt="Jupyter" width="40" />
 </p>
 
 ---

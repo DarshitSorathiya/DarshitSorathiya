@@ -41,7 +41,12 @@
 #### 🧠 Machine Learning & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="ML Tools"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40" />
+</p>
+
+#### 📊 Visualization & BI Tools
+<p>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
 </p>
 
 #### 🗄️ Databases
@@ -54,11 +59,10 @@
   <img src="https://skillicons.dev/icons?i=git,github,firebase" alt="DevOps"/>
 </p>
 
-#### 🛠️ Tools & Others
+#### 🧰 Tools & Utilities
 <p>
-  <img src="https://skillicons.dev/icons?i=postman,powerbi" alt="Other Tools"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
 </p>
-
 
 ---
 

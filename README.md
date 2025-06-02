@@ -40,10 +40,8 @@
 
 #### 🧠 Machine Learning & Data Science
 <p>
-  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikit-learn" alt="ML Tools"/>
-  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv" alt="ML Tools"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" alt="scikit-learn" width="40"/>
 </p>
 
 #### 🗄️ Databases
@@ -58,9 +56,7 @@
 
 #### 🛠️ Tools & Others
 <p>
-  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
-  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Other Tools"/>
+  <img src="https://skillicons.dev/icons?i=postman,powerbi" alt="Other Tools"/>
 </p>
 
 

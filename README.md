@@ -1,20 +1,91 @@
-<h1 align="center">Hi 👋, I'm Darshit Sorathiya</h1>
-<h3 align="center">Data Scientist | ML Enthusiast | Backend Developer</h3>
+<!-- prettier-ignore-start -->
+<h1 align="center">Hi, I’m Darshit Sorathiya 👋</h1>
+<h3 align="center">Data & ML tinkerer • Backend wrangler • Forever curious</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=darshitsorathiya&label=Profile%20views&color=0e75b6&style=flat" alt="darshitsorathiya" /> </p>
-
-- 📫 How to reach me **darshitsorthiya@gmail.com**
-
-- ⚡ Fun fact **My brain runs on caffeine and asynchronous functions ☕⚙️**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://kaggle.com/darshitsorthiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="darshitsorthiya" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/darshitsorthiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="darshitsorthiya" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/darshitsorathiya" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="darshitsorathiya" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=darshitsorathiya&label=profile%20visits&color=0e75b6" alt="profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/focus-AI%20%26%20Backend-6a5acd" alt="focus badge" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/timezone-IST-blueviolet" alt="timezone badge" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=darshitsorathiya&show_icons=true&locale=en&layout=compact" alt="darshitsorathiya" /></p>
+### 🤔 What I’m up to
+
+- **Crafting ML prototypes** — from PlantVillage disease detectors to deep-fake sniffers, all in TensorFlow & friends.  
+- **Building sturdy backends** with Node.js/Express, MongoDB, PostgreSQL & the occasional Redis cache.  
+- **Tinkering with MLOps** (Docker, FastAPI, GitHub Actions) so side-projects don’t crumble in prod.  
+- **Collecting coffee mugs** while shipping code at 2 a.m. (some say correlation ≠ causation; I disagree).
+
+---
+
+### 🚀 Projects worth a peek
+
+| Project | Stack | Why it’s cool |
+| ------- | ----- | ------------- |
+| **CropSheild** | Next.js 15 · FastAPI · TensorFlow | Real-time crop-disease alerts for farmers; hosted on Render. |
+| **DeepFake-Spotter** | Python · OpenCV · Keras | Lightweight CNN that flags face swaps in images. |
+| **Auto-Insight Dashboard** | React · Flask · Plotly | Upload CSV → get a PowerBI-style dashboard (no clicks, promise). |
+
+> *PS: Open to collaboration—drop an issue or shoot an email if any of these spark ideas.*
+
+---
+
+### 🛠️ Tools I reach for daily
+
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="38" />
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="38" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="Scikit-Learn" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="38" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="38" />
+</p>
+
+*(Yes, MATLAB still sneaks in now and then.)*
+
+---
+
+### 🌐 Find me around the internet
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-%2312100E?style=flat&logo=kaggle&logoColor=20beff)](https://kaggle.com/darshitsorthiya)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/darshitsorathiya)
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=flat&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/darshitsorthiya)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/darshit-sorathiya)
+
+---
+
+### 📈 GitHub stats
+
+<table>
+  <tr>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api?username=darshitsorathiya&show_icons=true&theme=tokyonight&hide=issues" alt="Darshit’s GitHub stats" />
+    </td>
+    <td valign="top">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=darshitsorathiya&layout=compact&theme=tokyonight&hide=html" alt="Top languages" />
+    </td>
+  </tr>
+</table>
+
+---
+
+### ✍️ Random thought of the day
+
+> “Debugging is like being the detective in a crime movie where **you** are also the murderer.”  
+> — *Filipe Fortes*
+
+---
+
+### 📫 Reach out
+
+If it’s about code, coffee, or comic books, I’m in.  
+**Email:** darshitsorthiya@gmail.com
+
+<!-- prettier-ignore-end -->

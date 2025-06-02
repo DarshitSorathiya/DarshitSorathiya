@@ -26,11 +26,43 @@
 
 ---
 
-### 🛠️ Languages & Tools
+### 🛠️ Tools & Technologies
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,flask,django,fastapi,cpp,java,js,nodejs,express,mongodb,mysql,postgresql,redis,bash,git,github,firebase,opencv,matlab,pandas,scikit-learn,seaborn" alt="My Tech Stack"/>
+#### 💬 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,java,js,bash" alt="Languages"/>
 </p>
+
+#### 🔧 Backend & Frameworks
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,flask,django,fastapi" alt="Backend Frameworks"/>
+</p>
+
+#### 🧠 Machine Learning & Data Science
+<p>
+  <img src="https://skillicons.dev/icons?i=tensorflow,opencv,scikit-learn" alt="ML Tools"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C.svg?&style=flat&logo=matplotlib&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB.svg?&style=flat&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?&style=flat&logo=pandas&logoColor=white"/>
+</p>
+
+#### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" alt="Databases"/>
+</p>
+
+#### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase" alt="DevOps"/>
+</p>
+
+#### 🛠️ Tools & Others
+<p>
+  <img src="https://img.shields.io/badge/Jupyter-F37626.svg?&style=flat&logo=Jupyter&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Colab-F9AB00?style=flat&logo=googlecolab&logoColor=white"/>
+  <img src="https://skillicons.dev/icons?i=vscode,postman" alt="Other Tools"/>
+</p>
+
 
 ---
 

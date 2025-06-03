@@ -73,13 +73,9 @@
   <img src="https://skillicons.dev/icons?i=mongodb,mysql,postgresql,redis" />
 </p>
 
-#### ☁️ DevOps & Cloud
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,firebase" />
-</p>
-
 #### 🧰 Tools & Utilities
 <p>
+  <img src="https://skillicons.dev/icons?i=git,github,firebase" />
   <img src="https://skillicons.dev/icons?i=postman" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="40" />
 </p>

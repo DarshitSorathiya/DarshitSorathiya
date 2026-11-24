@@ -12,24 +12,38 @@
 
 <img src="assets/activity.svg?v=1795439730" alt="Activity" width="100%"/>
 
-<img src="assets/chess.svg?v=1795439737" alt="Chess game" width="100%"/>
+<img src="assets/chess.svg?v=1795508613" alt="Chess game" width="100%"/>
 
 <!--CHESS_START-->
-<p align="center">
-<b>Your move, you play white ♙ — click a destination square to play it:</b><br>
-♘ <code>b1</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b1a3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">a3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b1c3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">c3</a><br>
-♘ <code>g1</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g1f3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">f3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g1h3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">h3</a><br>
-♙ <code>a2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20a2a3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">a3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20a2a4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">a4</a><br>
-♙ <code>b2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b2b3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">b3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b2b4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">b4</a><br>
-♙ <code>c2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20c2c3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">c3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20c2c4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">c4</a><br>
-♙ <code>d2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20d2d3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">d3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20d2d4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">d4</a><br>
-♙ <code>e2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20e2e3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">e3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20e2e4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">e4</a><br>
-♙ <code>f2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20f2f3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">f3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20f2f4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">f4</a><br>
-♙ <code>g2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g2g3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">g3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g2g4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">g4</a><br>
-♙ <code>h2</code> → <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20h2h3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">h3</a> · <a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20h2h4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title.">h4</a>
-</p>
+<div align="center">
+<img src="assets/ui/header.svg?v=1795508612" alt="chess status" width="800"/>
+<br>
+<img src="assets/ui/group-1.svg?v=1795508612" alt="PAWNS" width="180"/><br>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20a2a3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/a2a3.svg?v=1795508612" alt="a2a3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20a2a4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/a2a4.svg?v=1795508612" alt="a2a4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b2b3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/b2b3.svg?v=1795508612" alt="b2b3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b2b4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/b2b4.svg?v=1795508612" alt="b2b4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20c2c3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/c2c3.svg?v=1795508612" alt="c2c3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20c2c4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/c2c4.svg?v=1795508612" alt="c2c4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20d2d3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/d2d3.svg?v=1795508612" alt="d2d3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20d2d4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/d2d4.svg?v=1795508612" alt="d2d4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20e2e3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/e2e3.svg?v=1795508612" alt="e2e3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20e2e4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/e2e4.svg?v=1795508612" alt="e2e4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20f2f3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/f2f3.svg?v=1795508612" alt="f2f3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20f2f4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/f2f4.svg?v=1795508612" alt="f2f4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g2g3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/g2g3.svg?v=1795508612" alt="g2g3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g2g4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/g2g4.svg?v=1795508612" alt="g2g4" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20h2h3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/h2h3.svg?v=1795508612" alt="h2h3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20h2h4&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/h2h4.svg?v=1795508612" alt="h2h4" width="150"/></a>
+<br>
+<img src="assets/ui/group-2.svg?v=1795508612" alt="KNIGHTS" width="180"/><br>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b1a3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/b1a3.svg?v=1795508612" alt="b1a3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20b1c3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/b1c3.svg?v=1795508612" alt="b1c3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g1f3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/g1f3.svg?v=1795508612" alt="g1f3" width="150"/></a>
+<a href="https://github.com/darshitsorathiya/darshitsorathiya/issues/new?title=chess%3A%20move%20g1h3&body=Just%20press%20%27Submit%20new%20issue%27.%20Do%20not%20change%20the%20title."><img src="assets/moves/g1h3.svg?v=1795508612" alt="g1h3" width="150"/></a>
+</div>
 <!--CHESS_END-->
 
-<sub>Open an issue titled <code>chess: move e2e4</code> (or just click a link above) — Stockfish answers within a minute.</sub>
+<sub>▸ every button opens a pre-filled issue — just hit <b>Submit new issue</b>. A bot plays it, Stockfish strikes back, and this page redraws in about a minute.<br>No button for your idea? Open an issue titled <code>chess: move e2e4</code> by hand.</sub>
 
 </div>

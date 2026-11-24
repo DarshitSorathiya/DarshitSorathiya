@@ -1,0 +1,49 @@
+name: Chess
+on:
+  issues:
+    types: [opened]
+permissions:
+  contents: write
+  issues: write
+concurrency:
+  group: readme-writes
+  cancel-in-progress: false
+jobs:
+  move:
+    if: startsWith(github.event.issue.title, 'chess:')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with: { python-version: "3.12" }
+      - name: Install python-chess + Stockfish
+        run: |
+          pip install -r requirements.txt
+          sudo apt-get update -qq && sudo apt-get install -y -qq stockfish
+      - name: Play
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+          RESULT_FILE: ${{ runner.temp }}/result.txt
+        run: python scripts/chess_game.py
+      - name: Commit board
+        env:
+          ISSUE_TITLE: ${{ github.event.issue.title }}
+          ISSUE_USER: ${{ github.event.issue.user.login }}
+        run: |
+          git config user.name "chess-bot"
+          git config user.email "chess-bot@users.noreply.github.com"
+          git add -A
+          git diff --cached --quiet || git commit -m "${ISSUE_TITLE:0:60} (@${ISSUE_USER})"
+          git pull --rebase
+          git push
+      - name: Reply and close issue
+        if: always()
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMBER: ${{ github.event.issue.number }}
+          RESULT_FILE: ${{ runner.temp }}/result.txt
+        run: |
+          MSG="Something went wrong — please try again."
+          [ -f "$RESULT_FILE" ] && MSG="$(cat "$RESULT_FILE")"
+          gh issue close "$NUMBER" --repo "$GITHUB_REPOSITORY" --comment "$MSG Refresh the profile in a minute to see the board."

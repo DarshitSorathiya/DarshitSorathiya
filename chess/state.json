@@ -1,10 +1,12 @@
 {
- "fen": "rnbqkbnr/pppppp1p/6p1/8/8/P7/1PPPPPPP/RNBQKBNR w KQkq - 0 2",
+ "fen": "rnbqkb1r/pppppp1p/5np1/8/8/P7/RPPPPPPP/1NBQKBNR w Kkq - 2 3",
  "moves": [
   "a3",
-  "g6"
+  "g6",
+  "Ra2",
+  "Nf6"
  ],
- "last": "g7g6",
+ "last": "g8f6",
  "last_player": "DarshitSorathiya",
  "result": null,
  "games": 1

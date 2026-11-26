@@ -1,16 +1,16 @@
 <div align="center">
 
-<img src="assets/banner.svg?v=1795655729" alt="pixel desk banner" width="100%"/>
+<img src="assets/banner.svg?v=1795708508" alt="pixel desk banner" width="100%"/>
 
 <sub>The monitor scrolls my latest commits; the shelf holds a book for each language I write.</sub>
 
 <a href="https://github.com/darshitsorathiya">GitHub</a>
 
-<img src="assets/about.svg?v=1795655729" alt="About" width="100%"/>
+<img src="assets/about.svg?v=1795708508" alt="About" width="100%"/>
 
-<img src="assets/projects.svg?v=1795655729" alt="Projects" width="100%"/>
+<img src="assets/projects.svg?v=1795708508" alt="Projects" width="100%"/>
 
-<img src="assets/activity.svg?v=1795655729" alt="Activity" width="100%"/>
+<img src="assets/activity.svg?v=1795708508" alt="Activity" width="100%"/>
 
 <img src="assets/chess.svg?v=1795509049" alt="Chess game" width="100%"/>
 
